@@ -1,0 +1,10 @@
+@import './settings.scss';
+
+body{
+  background-image: image($temp-image);
+  background-color: #cccccc;
+}
+
+.dummy-class{
+  background-color: $base-color;
+}

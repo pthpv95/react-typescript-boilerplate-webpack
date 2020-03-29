@@ -1,0 +1,13 @@
+$base-color: #c6538c;
+$temp-image: '../images/pc.png';
+
+ul, ol {
+  text-align: left;
+
+  & & {
+    padding: {
+      bottom: 0;
+      left: 0;
+    }
+  }
+}
